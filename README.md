@@ -1,4 +1,5 @@
 # TodoList
+
 # It is a simple web-based application designed to help you manage your daily tasks efficiently.
 
 ## Features
@@ -21,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/raaj157/todoList.git
+    git clone https://github.com/raaj157/TodoList
     ```
 
 2. Open `index.html` in your preferred web browser.
